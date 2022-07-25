@@ -37,7 +37,6 @@ match operation:
         print(left_operand / right_operand)
     case '%':
         print(left_operand % right_operand)
-
 # Option 2
 # if operation == '+':
 #     print(left_operand + right_operand)
